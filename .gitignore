@@ -76,3 +76,6 @@ appsettings.*.json
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+## Project Documentation (Private)
+PROJECT_OVERVIEW.md
